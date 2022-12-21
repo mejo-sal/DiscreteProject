@@ -1,0 +1,6 @@
+C:\Users\amjed\source\repos\perfect test\perfect test\bin\Debug\perfect test.exe
+C:\Users\amjed\source\repos\perfect test\perfect test\bin\Debug\perfect test.pdb
+C:\Users\amjed\source\repos\perfect test\perfect test\obj\Debug\perfect test.csproj.AssemblyReference.cache
+C:\Users\amjed\source\repos\perfect test\perfect test\obj\Debug\perfect test.csproj.CoreCompileInputs.cache
+C:\Users\amjed\source\repos\perfect test\perfect test\obj\Debug\perfect test.exe
+C:\Users\amjed\source\repos\perfect test\perfect test\obj\Debug\perfect test.pdb
